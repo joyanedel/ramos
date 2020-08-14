@@ -58,7 +58,7 @@
 		["Electivo Informática I", "INF-301", 5, "ELEC"],
 		["Inteligencia Artificial", "INF-295", 5, "AN", ["INF-292", "INF-221"]],
 		["Sistemas de Gestión", "INF-266", 5, "SD", ["INF-276"]],
-		["Libre VI", "INF-6", 5, "HUM"]
+		["Libre VI", "INF-6", 2, "HUM"]
 	],
 	"s9": [
 		["Electivo Informática II", "INF-302", 5, "ELEC"],
